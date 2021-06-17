@@ -8,8 +8,12 @@ function App() {
     <>
       <Narbar/>
       <Carousel/>
-      <Plans/>
-      <Footer/>
+      <Plans plans={"PLANS"}/>
+      <Footer 
+      kenya={"VIST US IN KENYA"} 
+      ghana={"VIST US IN GHANA"}
+      nigeria={"VIST US IN NIGERIA"}
+      />
     </>
   );
 }
