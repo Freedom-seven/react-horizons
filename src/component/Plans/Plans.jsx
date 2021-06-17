@@ -5,11 +5,11 @@ import adam from '../../Images/adam.jpg';
 import React from "react";
 import './Plans.css';
 
-const Plans = () => {
+const Plans = (props) => {
     return (
         <div className="container content">
             <div className="row">
-                <h2 className="plans">PLANS</h2>
+                <h2 className="plans">{props.plans}</h2>
                 <div className="col-md-3">
                     <div className="thumbnail">
                         <img src={huy} alt="interior design" />
