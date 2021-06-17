@@ -1,0 +1,20 @@
+.navbar-home {
+    border:none;
+    margin-bottom: 0px;
+    background-color: #fff;
+}
+
+.logo > img {
+    padding-left: 40px;
+    height: 35px;
+   
+}
+
+.flag > li > a > img {
+    height: 20px;
+    text-align: center;
+}
+
+.flag {
+    padding-left: 30%;
+}
