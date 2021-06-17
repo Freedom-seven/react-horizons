@@ -1,0 +1,19 @@
+.footer {
+    background-color: #000066;
+    margin-top: 20px;
+    margin-bottom: 15rem;
+}
+
+address {
+    padding-top: 10px;
+    padding-left: 150px;
+    color: #fff;
+}
+address > strong {
+    color: #ff6600;
+}
+
+span {
+    color: #ace600;
+    padding-left: 30px;
+}
