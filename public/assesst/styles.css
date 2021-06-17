@@ -1,0 +1,47 @@
+.navbar-home {
+    border:none;
+    margin-bottom: 0px;
+    background-color: #fff;
+}
+
+.logo > img {
+    padding-left: 40px;
+    height: 35px;
+   
+}
+
+.flag > li > a > img {
+    height: 20px;
+    text-align: center;
+}
+
+.flag {
+    padding-left: 30%;
+}
+
+.carousel-images {
+    height: 550px;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #000066;
+    margin-top: 20px;
+}
+
+address {
+    padding-top: 10px;
+    padding-left: 150px;
+    color: #fff;
+}
+address > strong {
+    color: #ff6600;
+}
+
+span {
+    color: #ace600;
+    padding-left: 30px;
+}
